@@ -17,12 +17,6 @@
   </url>
   
   <url>
-    <loc>https://wadiwe.github.io/</loc>
-    <lastmod>2017-05-16T23:48:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://wadiwe.github.io/post/</loc>
     <lastmod>2017-05-16T23:48:09+02:00</lastmod>
     <priority>0</priority>
@@ -30,6 +24,12 @@
   
   <url>
     <loc>https://wadiwe.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wadiwe.github.io/</loc>
+    <lastmod>2017-05-16T23:48:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
